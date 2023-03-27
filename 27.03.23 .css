@@ -1,0 +1,31 @@
+.cabecalho 
+{
+    background: blue
+}
+h1   {
+    text-align:center;
+}
+h2 {
+    background-color: gray;
+}
+.picture{
+    width: 20px;
+    background-image: -o-linear-gradient();
+}
+.p {
+    font-size: 18px;
+}
+.paragrafindcria1{
+    font-size: 30px;
+}
+.paramafagafinhos {
+    font-size: 16px;
+}
+.lista {
+    display: inline-block;
+    margin: 0 16 px;
+}
+footer{
+    background-color: darkgray;
+    padding: 15px;
+}
